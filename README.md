@@ -1,1 +1,1 @@
-
+I’m an MCA student and aspiring software developer interested in web development, programming, and creative technology. I enjoy building practical projects using Python, Django, JavaScript, React, Node.js, and MongoDB while continuously learning and improving my skills. I’m also exploring game development and 2D animation as creative areas of interest.
