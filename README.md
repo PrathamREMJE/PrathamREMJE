@@ -1,0 +1,1 @@
+MCA student and aspiring developer exploring web development, software projects, and creative technologies. I work with Python, Django, JavaScript, React, Node.js, MongoDB, and related tools. I enjoy building practical projects, learning new technologies, and exploring game development and 2D animation.
