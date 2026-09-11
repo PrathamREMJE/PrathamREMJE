@@ -14,8 +14,8 @@ Currently Learning: Advanced Python, Backend Development & Full-Stack Developmen
 🎯 Current Goals
 
 * 📚 Strengthen my programming and problem-solving fundamentals
-* 💻 Build more **real-world and practical projects
-* 🚀 Improve my **Django & REST API development skills
+* 💻 Build more real-world and practical projects
+* 🚀 Improve my Django & REST API development skills
 * 🌐 Become better at full-stack web development
 * 🤖 Explore AI-assisted development and modern technologies
 * 📈 Prepare myself for internships and future IT opportunities
