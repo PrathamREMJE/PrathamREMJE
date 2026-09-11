@@ -1,1 +1,11 @@
-I’m an MCA student and aspiring software developer interested in web development, programming, and creative technology. I enjoy building practical projects using Python, Django, JavaScript, React, Node.js, and MongoDB while continuously learning and improving my skills. I’m also exploring game development and 2D animation as creative areas of interest.
+Hi! 👋 I'm an MCA student currently building my skills in software and web development.
+
+💻 **Tech Stack:** Python, HTML, CSS, JavaScript, Tailwind CSS, Django, Django REST Framework, REST APIs, and PostgreSQL.
+
+🚀 Currently working on improving my development skills through practical projects and exploring different areas of software development.
+
+🎯 **Goal:** To become a skilled software developer by building real-world projects, strengthening my programming fundamentals, and continuously learning new technologies.
+
+📚 Currently focusing on MCA studies, Python/Django development, APIs, and practical project building.
+
+I enjoy experimenting with ideas, learning through projects, and using modern tools to turn concepts into working applications.
