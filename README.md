@@ -1,11 +1,21 @@
-Hi! 👋 I'm an MCA student currently building my skills in software and web development.
+👋 Hi, I'm Pratham!
 
-💻 **Tech Stack:** Python, HTML, CSS, JavaScript, Tailwind CSS, Django, Django REST Framework, REST APIs, and PostgreSQL.
+I'm currently pursuing my **Master of Computer Applications (MCA)** and exploring different areas of software development. I enjoy building practical projects, learning new technologies, and using problem-solving and AI tools to improve my development skills. I'm currently focused on strengthening my programming fundamentals and gaining more hands-on experience.
 
-🚀 Currently working on improving my development skills through practical projects and exploring different areas of software development.
+🛠️ Tech Stack
 
-🎯 **Goal:** To become a skilled software developer by building real-world projects, strengthening my programming fundamentals, and continuously learning new technologies.
+Languages: Python, JavaScript
+Frontend: HTML, CSS, JavaScript, Tailwind CSS
+Backend: Django, Django REST Framework
+Database: MySQL, PostgreSQL, MongoDB
+Tools & Technologies: Git, GitHub, REST APIs, VS Code
+Currently Learning: Advanced Python, Backend Development & Full-Stack Development
 
-📚 Currently focusing on MCA studies, Python/Django development, APIs, and practical project building.
+🎯 Current Goals
 
-I enjoy experimenting with ideas, learning through projects, and using modern tools to turn concepts into working applications.
+* 📚 Strengthen my programming and problem-solving fundamentals
+* 💻 Build more **real-world and practical projects
+* 🚀 Improve my **Django & REST API development skills
+* 🌐 Become better at full-stack web development
+* 🤖 Explore AI-assisted development and modern technologies
+* 📈 Prepare myself for internships and future IT opportunities
