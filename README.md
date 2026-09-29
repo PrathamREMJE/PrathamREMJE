@@ -84,51 +84,6 @@ AI-assisted Development
 
 ---
 
-## 📌 Projects
-
-Some of the things I'm working on and experimenting with:
-
-| Project             | Description                                                                      |
-| ------------------- | -------------------------------------------------------------------------------- |
-| 🏫 **CampusNotify** | A college notice management and generation system                                |
-| 🏙️ **CIRA**        | A civic issue reporting and management platform                                  |
-| 🤖 **IGRIS**        | A local voice-based personal assistant experiment                                |
-| 🌐 **Web Projects** | Small projects built while learning HTML, CSS, JavaScript and other technologies |
-
-> More projects and experiments will be added as I build and learn.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamREMJE&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamREMJE&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 My Approach
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
-
-I don't try to know everything at once.
-I'm focused on continuously improving by **building projects, solving problems, and learning from mistakes.**
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://github.com/PrathamREMJE">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### ⭐ Thanks for visiting my profile!
 
 **Always learning. Always building.**
