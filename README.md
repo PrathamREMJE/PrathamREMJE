@@ -72,18 +72,6 @@ AI-assisted Development
 
 ---
 
-## 🎯 Current Goals
-
-* 📚 Strengthen programming fundamentals and problem-solving
-* 🐍 Become more confident with Python
-* 🔧 Build better Django & REST API projects
-* 🌐 Improve full-stack development skills
-* 🗄️ Gain more practical experience with databases
-* 🤖 Explore AI-assisted development
-* 💼 Prepare for internships and future software development opportunities
-
----
-
 ### ⭐ Thanks for visiting my profile!
 
 **Always learning. Always building.**
