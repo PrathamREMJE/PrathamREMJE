@@ -1,21 +1,134 @@
-👋 Hi, I'm Pratham!
+# 👋 Hi, I'm Pratham
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** and exploring different areas of software development. I enjoy building practical projects, learning new technologies, and using problem-solving and AI tools to improve my development skills. I'm currently focused on strengthening my programming fundamentals and gaining more hands-on experience.
+### MCA Student • Developer • Problem Solver
 
-🛠️ Tech Stack
+I'm currently pursuing my **Master of Computer Applications (MCA)** and exploring different areas of software development.
 
-Languages: Python, JavaScript
-Frontend: HTML, CSS, JavaScript, Tailwind CSS
-Backend: Django, Django REST Framework
-Database: MySQL, PostgreSQL, MongoDB
-Tools & Technologies: Git, GitHub, REST APIs, VS Code
-Currently Learning: Advanced Python, Backend Development & Full-Stack Development
+I enjoy building practical projects, learning new technologies, and improving my programming and problem-solving skills through hands-on practice.
 
-🎯 Current Goals
+Currently, I'm focusing on **Python, Django, REST APIs, JavaScript, React, databases, and backend development.**
 
-* 📚 Strengthen my programming and problem-solving fundamentals
-* 💻 Build more real-world and practical projects
-* 🚀 Improve my Django & REST API development skills
-* 🌐 Become better at full-stack web development
-* 🤖 Explore AI-assisted development and modern technologies
-* 📈 Prepare myself for internships and future IT opportunities
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 Currently pursuing **MCA**
+* 💻 Interested in **Web Development & Software Development**
+* 🐍 Currently improving my **Python & problem-solving fundamentals**
+* ⚙️ Learning more about **Django, REST APIs & Backend Development**
+* 🌐 Exploring **React and modern web technologies**
+* 🤖 Interested in **AI-assisted development and emerging technologies**
+* 🚀 I learn best by **building projects and experimenting with ideas**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+```text
+Python & Problem Solving
+        ↓
+Django & REST APIs
+        ↓
+Backend Development
+        ↓
+React & Full-Stack Development
+        ↓
+AI-assisted Development
+```
+
+---
+
+## 🎯 Current Goals
+
+* 📚 Strengthen programming fundamentals and problem-solving
+* 🐍 Become more confident with Python
+* 🔧 Build better Django & REST API projects
+* 🌐 Improve full-stack development skills
+* 🗄️ Gain more practical experience with databases
+* 🤖 Explore AI-assisted development
+* 💼 Prepare for internships and future software development opportunities
+
+---
+
+## 📌 Projects
+
+Some of the things I'm working on and experimenting with:
+
+| Project             | Description                                                                      |
+| ------------------- | -------------------------------------------------------------------------------- |
+| 🏫 **CampusNotify** | A college notice management and generation system                                |
+| 🏙️ **CIRA**        | A civic issue reporting and management platform                                  |
+| 🤖 **IGRIS**        | A local voice-based personal assistant experiment                                |
+| 🌐 **Web Projects** | Small projects built while learning HTML, CSS, JavaScript and other technologies |
+
+> More projects and experiments will be added as I build and learn.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamREMJE&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamREMJE&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 My Approach
+
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+```
+
+I don't try to know everything at once.
+I'm focused on continuously improving by **building projects, solving problems, and learning from mistakes.**
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/PrathamREMJE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Always learning. Always building.**
